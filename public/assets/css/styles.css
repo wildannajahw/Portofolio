@@ -1226,7 +1226,7 @@ nav{
     .project__container{
         background-color: var(--first-color-second);
         border-radius: 1rem;
-        padding: 3rem 2.5rem 3rem;
+        padding: 3rem 2.5rem 0;
         grid-template-columns: 1fr max-content;
         column-gap: 3rem;
     }
